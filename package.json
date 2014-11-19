@@ -1,0 +1,19 @@
+{
+  "name": "parsemail",
+  "version": "0.0.2",
+  "description": "dead simple mail parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muratsu/parsemail.git"
+  },
+  "author": "Murat Sutunc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muratsu/parsemail/issues"
+  },
+  "homepage": "https://github.com/muratsu/parsemail"
+}
